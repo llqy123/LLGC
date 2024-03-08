@@ -1,6 +1,11 @@
-# L2GC: Lorentzian Linear Graph Convolutional Networks For Node Classification
-![](https://img.shields.io/badge/version-1.0.1-blue)
-[![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+<h2 align="center">
+L2GC: Lorentzian Linear Graph Convolutional Networks For Node Classification
+</h2>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/version-1.0.1-blue">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white">
+</p>
 
 ## 💻 Requirements
     torch
