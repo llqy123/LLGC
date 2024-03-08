@@ -1,9 +1,9 @@
 # L2GC: Lorentzian Linear Graph Convolutional Networks For Node Classification
+![](https://img.shields.io/badge/version-1.0.1-blue)
+[![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
-
-## Example:
+## 🚀 Example:
     python run_xx.py
 
 #### Acknowledgement
-This repo borrows a lot from [SGC](https://github.com/Tiiiger/SGC).
-Thanks for providing the excellent source code.
+Our code is based on [SGC](https://github.com/Tiiiger/SGC), thank you for the excellent source code.
