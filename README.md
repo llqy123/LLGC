@@ -2,7 +2,11 @@
 ![](https://img.shields.io/badge/version-1.0.1-blue)
 [![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
-## 💻 Environmental dependencies
+## 💻 Requirements
+    torch
+    numpy
+    scipy
+    networkx==1.11
 
 ## 🚀 Example:
     python run_xx.py
