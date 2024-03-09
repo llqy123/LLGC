@@ -1,5 +1,5 @@
 <h2 align="center">
-L2GC: Lorentzian Linear Graph Convolutional Networks For Node Classification
+L<sup>2</sup>GC: Lorentzian Linear Graph Convolutional Networks For Node Classification
 </h2>
 
 <p align="center">
