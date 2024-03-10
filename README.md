@@ -5,6 +5,7 @@ L<sup>2</sup>GC: Lorentzian Linear Graph Convolutional Networks For Node Classif
 <p align="center">
     <img src="https://img.shields.io/badge/version-1.0.1-blue">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white">
+    <a href="https://lrec-coling-2024.org/"><img src="https://img.shields.io/badge/COLING-2024-%23bd9f65?labelColor=%2377BBDD&color=3388bb"></a>
 </p>
 
 ## 💻 Requirements
