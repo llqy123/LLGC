@@ -20,7 +20,7 @@ This repository is the official implementation of ["L<sup>2</sup>GC: Lorentzian 
 ## 🚀 Example:
     python run_xx.py
     
-## 🤝 Cite:
+## 📄 Cite:
 Please cite our paper if you use the model or this code in your own work:
 
     @misc{liang2024llgc,
