@@ -17,6 +17,19 @@ L<sup>2</sup>GC: Lorentzian Linear Graph Convolutional Networks For Node Classif
 
 ## 🚀 Example:
     python run_xx.py
+    
+## 🤝 Cite:
+If our article or code is helpful to you, please cite it!
 
-#### Acknowledgement
+    @misc{liang2024llgc,
+      title={L$^2$GC: Lorentzian Linear Graph Convolutional Networks For Node Classification}, 
+      author={Qiuyu Liang and Weihua Wang and Feilong Bao and Guanglai Gao},
+      year={2024},
+      eprint={2403.06064},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+      }
+      
+
+## 🤝 Acknowledgement
 Our code is based on [SGC](https://github.com/Tiiiger/SGC), thank you for the excellent source code.
