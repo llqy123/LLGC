@@ -9,7 +9,7 @@ L<sup>2</sup>GC: Lorentzian Linear Graph Convolutional Networks For Node Classif
     <a href="https://lrec-coling-2024.org/"><img src="https://img.shields.io/badge/COLING-2024-%23bd9f65?labelColor=%2377BBDD&color=3388bb"></a>
 </p>
 
-This repository is the official implementation of ["L<sup>2</sup>GC: Lorentzian Linear Graph Convolutional Networks For Node Classification"](https://arxiv.org/abs/2403.06064) accepted by LREC-COLING 20224.
+This repository is the official implementation of ["L<sup>2</sup>GC: Lorentzian Linear Graph Convolutional Networks For Node Classification"](https://arxiv.org/abs/2403.06064) accepted by LREC-COLING 2024.
 
 ## 💻 Requirements
     torch
