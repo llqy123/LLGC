@@ -21,30 +21,17 @@ This repository is the official implementation of ["L<sup>2</sup>GC: Lorentzian 
     python run_xx.py
     
 ## 📄 Cite:
-Please cite our paper if you use the model or this code in your own work:
-
-   @inproceedings{liang2024,
-    title = "{L}{\^{}}2{GC}:Lorentzian Linear Graph Convolutional Networks for Node Classification",
-    author = "Liang, Qiuyu  and
-      Wang, Weihua  and
-      Bao, Feilong  and
-      Gao, Guanglai",
-    editor = "Calzolari, Nicoletta  and
-      Kan, Min-Yen  and
-      Hoste, Veronique  and
-      Lenci, Alessandro  and
-      Sakti, Sakriani  and
-      Xue, Nianwen",
+## Please cite our paper if you use the model or this code in your own work:
+    @inproceedings{liang2024,
+    title = "{L}{\^2}{GC}:Lorentzian Linear Graph Convolutional Networks for Node Classification",
+    author = "Liang, Qiuyu  and Wang, Weihua  and Bao, Feilong  and Gao, Guanglai",
     booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
     month = may,
     year = "2024",
     address = "Torino, Italy",
     publisher = "ELRA and ICCL",
     url = "https://aclanthology.org/2024.lrec-main.873",
-    pages = "9988--9998",
-}
-
-      
+    pages = "9988--9998"}
 
 ## 🤝 Acknowledgement
 Our code is based on [SGC](https://github.com/Tiiiger/SGC), thank you for the excellent source code.
