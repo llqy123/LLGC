@@ -16,7 +16,7 @@ This repository is the official implementation of ["L<sup>2</sup>GC: Lorentzian 
     scipy
     networkx==1.11
 
-## 🚀 Example:
+## 🚀 Running:
     python run_xx.py
     
 ## 📄 Cite:
