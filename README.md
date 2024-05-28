@@ -20,7 +20,7 @@ This repository is the official implementation of ["L<sup>2</sup>GC: Lorentzian 
     python run_xx.py
     
 ## 😄 Cite:
-## Please cite our paper if you use the model or this code in your own work:
+## Please cite our paper if you use the model or this code in your work:
     @inproceedings{liang2024,
         title = "L$^2${GC}:Lorentzian Linear Graph Convolutional Networks for Node Classification",
         author = "Liang, Qiuyu  and Wang, Weihua  and Bao, Feilong  and Gao, Guanglai",
