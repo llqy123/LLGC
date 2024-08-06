@@ -10,17 +10,12 @@ L<sup>2</sup>GC: Lorentzian Linear Graph Convolutional Networks For Node Classif
 
 This repository is the official implementation of ["L<sup>2</sup>GC: Lorentzian Linear Graph Convolutional Networks For Node Classification"](https://aclanthology.org/2024.lrec-main.873/) accepted by LREC-COLING 2024.
 
-## 💻 Requirements
-    torch
-    numpy
-    scipy
-    networkx==1.11
-
-## 🚀 Running:
+<!-- Run Locally -->
+### :running: Reproduce the Results
+```
     python run_xx.py
-    
-## 😄 Cite:
-## Please cite our paper if you use the model or this code in your work:
+```
+## Citation
     @inproceedings{liang2024,
         title = "L$^2${GC}:Lorentzian Linear Graph Convolutional Networks for Node Classification",
         author = "Liang, Qiuyu  and Wang, Weihua  and Bao, Feilong  and Gao, Guanglai",
@@ -33,5 +28,5 @@ This repository is the official implementation of ["L<sup>2</sup>GC: Lorentzian 
         pages = "9988--9998"
         }
 
-## 🤝 Acknowledgement
+## Acknowledgement
 Our code is based on [SGC](https://github.com/Tiiiger/SGC), thank you for the excellent source code.
