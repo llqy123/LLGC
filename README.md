@@ -20,10 +20,7 @@ This repository is the official implementation of ["L<sup>2</sup>GC: Lorentzian 
         title = "L$^2${GC}:Lorentzian Linear Graph Convolutional Networks for Node Classification",
         author = "Liang, Qiuyu  and Wang, Weihua  and Bao, Feilong  and Gao, Guanglai",
         booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
-        month = may,
         year = "2024",
-        address = "Torino, Italy",
-        publisher = "ELRA and ICCL",
         url = "https://aclanthology.org/2024.lrec-main.873",
         pages = "9988--9998"
         }
